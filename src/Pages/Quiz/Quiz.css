@@ -1,0 +1,20 @@
+.Quiz {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.subtitle {
+  font-size: 28px;
+  padding: 5px 10px;
+  border: 1px solid grey;
+  box-shadow: 4px 4px rgb(187, 173, 173);
+}
+.QuizItem {
+  width: 100%;
+  padding: 20px 10px;
+  justify-content: space-between;
+  display: flex;
+  font-weight: bold;
+  font-size: 20px;
+  text-transform: uppercase;
+}

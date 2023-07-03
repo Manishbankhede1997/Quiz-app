@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Eczar:wght@500&family=Merriweather:wght@700&family=Montserrat:ital,wght@1,200&family=Playfair&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Eczar:wght@500&family=Merriweather:wght@700&family=Montserrat:ital,wght@1,200&family=Playfair&family=Poppins:wght@200&display=swap");
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  color: rgb(231, 44, 147);
+  scrollbar-width: thin;
+}
+*::-webkit-scrollbar {
+  width: 8px;
+  background-color: grey;
+}
+a {
+  text-decoration: inherit;
+  color: inherit;
+}
+.app {
+  min-height: 98.5vh;
+  border: 8px solid #39445a93;
+  margin: 5px;
+  padding: 5px;
+  background: no-repeat;
+  background-size: cover;
+}

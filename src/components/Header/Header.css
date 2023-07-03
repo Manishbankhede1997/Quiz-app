@@ -1,0 +1,17 @@
+.title {
+  text-transform: uppercase;
+  font-size: 8vh;
+  cursor: pointer;
+  font-family: Poppins, Montserrat;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.divider {
+  margin: 5px;
+  width: 100%;
+  background-color: grey;
+}

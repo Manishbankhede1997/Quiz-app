@@ -1,0 +1,13 @@
+.resultScore {
+  margin-top: 20px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.result {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}

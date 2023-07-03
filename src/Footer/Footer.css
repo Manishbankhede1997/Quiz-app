@@ -1,0 +1,10 @@
+.footer {
+  font-weight: bold;
+  color: darkblue;
+  font-size: large;
+  text-transform: capitalize;
+}
+.icon {
+  color: blue;
+  background-color: blue;
+}
